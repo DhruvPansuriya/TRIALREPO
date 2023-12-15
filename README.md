@@ -1,3 +1,3 @@
 # TRIALREPO
 This is my first repo.
-Author: Me.
+Author: Me and you.
